@@ -57,7 +57,7 @@ namespace hw
                 }
 
             }
-            else Console.WriteLine("Eror");
+            else Console.WriteLine("Erorr");
             Console.ReadKey();
         }
 
